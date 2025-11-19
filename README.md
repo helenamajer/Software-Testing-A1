@@ -1,3 +1,5 @@
+Helena Majer
+
 # Assignment 1 part 1. For passing grade E-D
 
 This assignment consists of three parts
